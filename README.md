@@ -1,5 +1,5 @@
 # Activity-Buddy
-Project Description Find Your Buddy is a web application designed to connect users for specific activities. It allows individuals to create a simple profile and then find a partner based on the activity they want to do, with optional filters for personality, skills, and availability. The core feature is a weighted preference system that allows users to prioritize what matters most to them in a "buddy."
+Activity-Buddy  is a web application designed to connect users for specific activities. It allows individuals to create a simple profile and then find a partner based on the activity they want to do, with optional filters for personality, skills, and availability. The core feature is a weighted preference system that allows users to prioritize what matters most to them in a "buddy."
 
 Core Features User Authentication: Secure sign-up and login functionality for new and returning users.
 
